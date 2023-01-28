@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.jorge.deeplinkslab",
+    "sha256_cert_fingerprints":
+    ["9C:DB:83:A8:01:BB:11:38:44:AD:96:0E:6C:3B:7A:42:DD:FF:B2:20:88:2C:04:41:39:FF:99:C2:F3:A5:5E:18"]
+  }
+}]
